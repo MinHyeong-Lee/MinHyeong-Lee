@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MinHyeong%20Lee&desc=Software%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35)
+# Hi, I'm MinHyeong 👋 👨‍💻
+
+Software Engineer
 <!--
 **MinHyeong-Lee/MinHyeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
