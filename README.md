@@ -28,10 +28,11 @@ Backend
 Database
 - MySQL
 
-ETC
+DevOps
 - Docker-compose
 - Kubernetes (수련중)
-- RabbitMQ (수련중)
+- Jenkins (수련중)
+- ArgoCD (수련중)
 ```
 
 ### 👀 Sometimes using
@@ -41,6 +42,9 @@ Backend
 
 Frontend
 - Javascript
+
+ETC
+- RabbitMQ (수련중)
 ```
 
 ## What I do in free time
