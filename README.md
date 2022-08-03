@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MinHyeong%20Lee&desc=Solutions%20Architect%20/%20DevOps&descAlignY=57&animation=twinkling&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MinHyeong%20Lee&desc=DevOps%20Engineer&descAlignY=57&animation=twinkling&fontAlignY=35)
 # Hi, I'm MinHyeong 👋 👨‍💻
 
 
