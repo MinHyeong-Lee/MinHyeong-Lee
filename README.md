@@ -11,6 +11,7 @@ DevOps is cool
 -->
 
 ## Certifications
+![AWS-Certified-Solutions-Architect-Associate_badge 3419559c682629072f1eb968d59dea0741772c0f](https://user-images.githubusercontent.com/48749902/182615397-7ce5afec-d1c3-46d6-aacc-f3fcf1e3bd59.png)
 
 ## Tech
 
