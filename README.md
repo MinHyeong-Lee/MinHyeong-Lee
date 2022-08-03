@@ -10,6 +10,8 @@ DevOps is cool
 - [📑 Etc](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba)
 -->
 
+## Certifications
+
 ## Tech
 
 ### 🧑‍💻 Mainly using
