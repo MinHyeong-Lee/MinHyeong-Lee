@@ -30,9 +30,9 @@ Database
 
 DevOps
 - Docker-compose
-- Kubernetes (수련중)
-- Jenkins (수련중)
-- ArgoCD (수련중)
+- Kubernetes
+- Jenkins
+- ArgoCD
 ```
 
 ### 👀 Sometimes using
@@ -44,7 +44,7 @@ Frontend
 - Javascript
 
 ETC
-- RabbitMQ (수련중)
+- RabbitMQ
 ```
 
 ## What I do in free time
