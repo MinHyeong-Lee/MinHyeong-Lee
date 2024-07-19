@@ -22,8 +22,12 @@ Public Cloud
 - AWS
 - Naver Cloud Platform
 
+Frontend
+- Javascript
+
 Backend
 - Node.js
+- Python
 
 Database
 - MySQL
@@ -37,12 +41,6 @@ DevOps
 
 ### 👀 Sometimes using
 ```html
-Backend
-- Python
-
-Frontend
-- Javascript
-
 ETC
 - RabbitMQ
 ```
