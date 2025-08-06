@@ -24,6 +24,7 @@ Public Cloud
 
 Frontend
 - Javascript
+- Vue
 
 Backend
 - Node.js
